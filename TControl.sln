@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AccsesoDatos", "AccsesoDatos\AccsesoDatos.vbproj", "{DA164222-01C8-4A73-BEEA-7B2B807F5D27}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "LogicaAplicacion", "LogicaAplicacion\LogicaAplicacion.vbproj", "{F132FA65-0A5D-4986-BC21-9FB5247D08CC}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "AppCliente", "AppCliente\AppCliente.vbproj", "{5D3F1C7C-4A92-494C-947A-6CDAE7E9CD97}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Tcontrol II", "Tcontrol II\Tcontrol II.vdproj", "{9473C527-C5E3-4CD7-A797-4A41F00BF5AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA164222-01C8-4A73-BEEA-7B2B807F5D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA164222-01C8-4A73-BEEA-7B2B807F5D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA164222-01C8-4A73-BEEA-7B2B807F5D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA164222-01C8-4A73-BEEA-7B2B807F5D27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F132FA65-0A5D-4986-BC21-9FB5247D08CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F132FA65-0A5D-4986-BC21-9FB5247D08CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F132FA65-0A5D-4986-BC21-9FB5247D08CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F132FA65-0A5D-4986-BC21-9FB5247D08CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D3F1C7C-4A92-494C-947A-6CDAE7E9CD97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D3F1C7C-4A92-494C-947A-6CDAE7E9CD97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D3F1C7C-4A92-494C-947A-6CDAE7E9CD97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D3F1C7C-4A92-494C-947A-6CDAE7E9CD97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9473C527-C5E3-4CD7-A797-4A41F00BF5AB}.Debug|Any CPU.ActiveCfg = Debug
+		{9473C527-C5E3-4CD7-A797-4A41F00BF5AB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AppCliente
+</name>
+</assembly>
+<members>
+<member name="M:AppCliente.FrmControlPanel.CargarMeses">
+	<summary>
+ Carga en los objetos los meses 
+ </summary>
+</member>
+</members>
+</doc>

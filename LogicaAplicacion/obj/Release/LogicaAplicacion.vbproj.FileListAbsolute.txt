@@ -1,0 +1,12 @@
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\bin\Release\LogicaAplicacion.dll
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\bin\Release\LogicaAplicacion.pdb
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\bin\Release\LogicaAplicacion.xml
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\bin\Release\AccsesoDatos.dll
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\bin\Release\AccsesoDatos.pdb
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\bin\Release\AccsesoDatos.xml
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\obj\Release\ResolveAssemblyReference.cache
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\obj\Release\LogicaAplicacion.Resources.resources
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\obj\Release\LogicaAplicacion.vbproj.GenerateResource.Cache
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\obj\Release\LogicaAplicacion.dll
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\obj\Release\LogicaAplicacion.xml
+C:\Users\eduardo\Dropbox\desarrollo2012\TControl\LogicaAplicacion\obj\Release\LogicaAplicacion.pdb

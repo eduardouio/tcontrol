@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LogicaAplicacion
+</name>
+</assembly>
+<members>
+<member name="M:LogicaAplicacion.Usuario.#ctor">
+	<summary>
+ Consrtuctor Vacio
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalogoMes.ObtenerMes(System.String)">
+	<summary>
+ Obtenemos un mes de la base de datos
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalogoMes.CrearMes(System.String[],System.String)">
+	<summary>
+ Creamos un mes en la base de datos
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalogoMes.ListarMeses">
+	<summary>
+ Devuelve una lista de todos los meses
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalogoMes.AnadirColumna(System.String,System.String,System.String)">
+	<summary>
+ Añade una clumna a una tabla
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalogoMes.ListarColumnas(System.String)">
+	<summary>
+ lista las columnas de una tabla
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalogoMes.DuplicarCampostabla(System.String)">
+	<summary>
+ toma los campo de una tabla
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalogoMes.Guardar(System.Data.DataTable)">
+	<summary>
+ guardar los cambios en las tablas
+ </summary>
+</member><member name="T:LogicaAplicacion.CatalogoMes">
+	<summary>
+ Representa los ingresos de un mes para el sistema
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalgoInformes.CrearInforme(System.String)">
+	<summary>
+ encargada de generar el informe del mes
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalgoInformes.ObtenerCondiciones">
+	<summary>
+ Retorna las condiciones de la tabla
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalgoInformes.AgregarColumna(System.String,System.String)">
+	<summary>
+ Agrega una coluna al datatable
+ </summary>
+	<param name="Nombre">nombre de la columna</param>
+	<param name="tipo">tipo de dato</param>
+</member><member name="M:LogicaAplicacion.CatalgoInformes.AgregarRow(System.String[],System.String[])">
+	<summary>
+ Agrega una nueva fila al datatable
+ </summary>
+</member><member name="M:LogicaAplicacion.CatalgoInformes.ObtenerTotal(System.String,System.String,System.Int32,System.Int32,System.String)">
+	<summary>
+ Obtiene los totales de todos los rangos
+ </summary>
+	<param name="NombreColumna">nombre de la columna a sumar</param>
+	<param name="Tabla">Tabla a la que se hace la referencia</param>
+	<param name="RangoInicio">Rango inicio</param>
+	<param name="RangoFin">Rango Fin</param>
+	<param name="Condicion">Condicion de la consulta usada para la suma
+ de totales de las sumas para cada genero</param>
+</member><member name="T:LogicaAplicacion.CatalgoInformes">
+	<summary>
+ Geenenra el informe mensual 
+ </summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,38 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AccsesoDatos
+</name>
+</assembly>
+<members>
+<member name="M:AccsesoDatos.BaseDatos.#ctor">
+	<summary>
+ configura la conexion cuando se instancia la clase
+ </summary>
+</member><member name="M:AccsesoDatos.BaseDatos.AsignarParametro(System.String,System.String,System.String)">
+	<summary>
+ Asigna los parametros a las cadenas SQL
+ </summary>
+</member><member name="M:AccsesoDatos.BaseDatos.AsignarParametroCadena(System.String,System.String)">
+	<summary>
+ Asinga un parametro tipo Cadena
+ </summary>
+	<param name="Nombre">nombre del parametro @nombre</param>
+	<param name="Valor">valor del parametro</param>
+	<remarks>acondiciona los parámetros par la llamar a la funcion Asignar parametro</remarks>
+</member><member name="M:AccsesoDatos.BaseDatos.AsignarParametroEntero(System.String,System.Int32)">
+	<summary>
+ Asigna un Parametro Entero
+ </summary>
+	<param name="Nombre">nombre del parametro @nombre</param>
+	<param name="Valor">valor del parametro</param>
+</member><member name="M:AccsesoDatos.BaseDatos.AsignarParametroCero(System.String)">
+	<summary>
+ Asigna un Parametro Nulo
+ </summary>
+	<param name="Nombre">nombre del parametro @nombre</param>
+	<remarks>Se envia la palabra null para la consulta</remarks>
+</member>
+</members>
+</doc>
